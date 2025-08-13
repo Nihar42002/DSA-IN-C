@@ -1,0 +1,3 @@
+# unignore all with extensions
+*.exe
+*.vscode
