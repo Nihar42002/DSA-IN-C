@@ -1,3 +1,4 @@
 # unignore all with extensions
 *.exe
 *.vscode
+.tmp.driveupload/
