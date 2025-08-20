@@ -2,3 +2,4 @@
 *.exe
 *.vscode
 .tmp.driveupload/
+.code-profiles/
